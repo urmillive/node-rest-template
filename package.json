@@ -22,5 +22,12 @@
   "bugs": {
     "url": "https://github.com/urmillive/node-rest-template/issues"
   },
-  "homepage": "https://github.com/urmillive/node-rest-template#readme"
+  "homepage": "https://github.com/urmillive/node-rest-template#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.5.0",
+    "nodemon": "^3.1.9"
+  }
 }
