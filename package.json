@@ -1,0 +1,26 @@
+{
+  "name": "node-api-template",
+  "version": "1.0.0",
+  "description": "Node REST API template ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urmillive/node-rest-template.git"
+  },
+  "keywords": [
+    "rest",
+    "template",
+    "node",
+    "rest",
+    "template"
+  ],
+  "author": "Urmil Rupareliya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/urmillive/node-rest-template/issues"
+  },
+  "homepage": "https://github.com/urmillive/node-rest-template#readme"
+}
